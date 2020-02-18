@@ -1,2 +1,4 @@
 # hello-world
-repo from tutorial
+repository from tutorial
+
+This repo created for learn github.
